@@ -1,0 +1,56 @@
+/*estilos para el body del sitio*/
+body {
+    background-color: #dd1010;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/*estilo para el contenedor principal*/
+.container {
+    display: block;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    
+    width: 40%;
+    margin-right: 60px;
+    height: 500px; 
+    overflow-y: scroll;
+}
+
+/*estilo para el contenedor del logo*/
+.logo-container {
+    flex-basis: 20%;
+    margin-right: 20px;
+    
+}
+
+/*estilo para el logo*/
+.logo-container img {
+    max-width: 100%;
+   
+    height: auto;
+    margin-left: 250px;
+}
+
+/*estilo para el contenedor del formulario*/
+.form-container {
+    flex-basis: 80%;
+    
+}
+
+/*botones del contenedor del form*/
+.btn-container {
+    display: flex;
+    justify-content: space-between;
+}
+/*botones del contenedor del form*/
+.btn-container button {
+    width: 48%;
+}

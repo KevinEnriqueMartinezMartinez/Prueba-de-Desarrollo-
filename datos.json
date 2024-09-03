@@ -1,0 +1,17 @@
+{
+  "mascara": "DOC - EUC -Garantias",
+  "tipoDocumento": "Detalle de Garantias de Cliente",
+  "numeroCliente": "9876543241",
+  "nombreCliente": "Frank Oscar Padilla",
+  "Agencia": "Centro",
+  "idAgencia": "4",
+  "nombreDocumento": "Frank Oscar Padilla",
+  "numeroDocumento": "9876543241",
+  "fechaVigencia": "2020-05-06",
+  "fechaExpiracion": "2028-05-06",
+  "fechaDocumento": "2023-04-25",
+  "fechaArchivado": "2023-12-26",
+  "horaArchivado": "13:11",
+  "archivadoPor": "d.user",
+  "numeroCrediticio": "123456789"
+}
